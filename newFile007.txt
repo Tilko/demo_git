@@ -1,1 +1,4 @@
-Attention: la phrase contenu dans le fichier newFile007.txt est fausse !!!
+Attention
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+la phrase contenu dans le fichier newFile007.txt est fausse !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
